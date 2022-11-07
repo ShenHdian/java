@@ -13,5 +13,6 @@ public class gitdemo {
         System.out.println("git-idea 搭建test2");
         System.out.println("git-idea 搭建test3");
         System.out.println("git-idea hot-fix have changed");
+        System.out.println("git-idea hot-fix have conflict");
     }
 }
