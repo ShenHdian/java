@@ -15,5 +15,6 @@ public class gitdemo {
         System.out.println("git-idea hot-fix have changed");
         System.out.println("git-idea hot-fix have conflict");
         System.out.println("git-idea master have conflicts");
+        System.out.println("file modified from github");
     }
 }
