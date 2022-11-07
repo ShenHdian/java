@@ -6,5 +6,7 @@ public class gitdemo {
         System.out.println("git-idea 搭建test");
         System.out.println("git-idea 搭建test");
         System.out.println("git-idea 搭建test");
+        System.out.println("git-idea 搭建test");
+        System.out.println("git-idea 搭建test");
     }
 }
